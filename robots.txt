@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-exnlso.kujang138.space/sitemap.xml
